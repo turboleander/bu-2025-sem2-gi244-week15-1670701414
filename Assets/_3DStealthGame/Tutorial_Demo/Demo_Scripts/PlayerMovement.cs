@@ -35,14 +35,14 @@ namespace StealthGame
 
         void Update()
         {
-            if (enableBugCode)
-            {
-                int n = 0;
-                for (int i = 0; i < bugIteration; i++)
-                {
-                    n++;
-                }
-            }
+            //if (enableBugCode)
+            //{
+            //    int n = 0;
+            //    for (int i = 0; i < bugIteration; i++)
+            //    {
+            //        n++;
+            //    }
+            //}
         }
 
         void FixedUpdate()
